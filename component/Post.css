@@ -1,0 +1,51 @@
+.post {
+    width: 40%;
+    height: 320px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.75);
+  }
+  
+  .postWrapper {
+    padding: 20px;
+  }
+  
+  .postTop {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .postProfileImg {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .postUsername {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  .postDate {
+    font-size: 12px;
+    color: gray;
+  }
+  
+  .postInteractions {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .postImg {
+    height: 200px;
+    width: 550px;
+  }
+  
+  .postText {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 10px;
+  }
+  

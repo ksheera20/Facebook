@@ -1,0 +1,20 @@
+.centerbar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .centerbarWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .centerbar .post {
+    margin-top: 20px;
+  }
+  
+  .centerbar .share {
+    margin-bottom: 20px;
+  }
